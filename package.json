@@ -1,0 +1,16 @@
+{
+  "name": "goldendoge",
+  "version": "1.0.0",
+  "description": "golden doge improver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^9.0.0",
+    "cypress": "^8.3.0",
+    "typescript": "4.3.5"
+  }
+}

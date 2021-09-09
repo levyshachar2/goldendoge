@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://www.dextools.io/app/pancakeswap/pair-explorer/0x694d146f5353939a0cb8791dcec08f3c535b168e",
+  "supportFile": "./cypress/support/commands.js"
+}
